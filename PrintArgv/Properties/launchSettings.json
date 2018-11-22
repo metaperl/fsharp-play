@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PrintArgv": {
+      "commandName": "Project",
+      "commandLineArgs": "my name is slim"
+    }
+  }
+}
