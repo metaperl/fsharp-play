@@ -9,3 +9,6 @@ let getInitials customer =
 
 let t =  { FirstName = "Terrence"; LastName = "Brannon"; Age = 50 }
 let i = getInitials t
+
+let isOlderThan age customer =
+    customer.Age > age
